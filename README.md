@@ -23,5 +23,28 @@
 - 张一鸣
 
  [Word Search](https://leetcode.com/problems/word-search/)
-
+ 
 ------------
+#### ISCAS15 - leetcode - week2
+
+- 曾靖
+
+ [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+
+- 刘重瑞
+
+ [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)
+
+- 沈雯婷
+
+ [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)
+
+- 刘旭斌
+
+ [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
+
+- 王建飞
+
+ [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)
+
+---------
