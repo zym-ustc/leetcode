@@ -48,3 +48,27 @@
  [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)
 
 ---------
+#### ISCAS15 - leetcode - week3
+
+- 殷康
+
+ [Counting Bits](https://leetcode.com/problems/counting-bits/)
+
+- 张一鸣
+
+ [Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)
+
+- 赵伟
+
+ [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)
+
+- 任杰
+
+ [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
+
+- 唐波
+
+ [Maximal Square](https://leetcode.com/problems/maximal-square/)
+
+
+------------
