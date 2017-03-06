@@ -52,20 +52,18 @@ public class Solution {
             }
 
         }
-        while (a != null)
+        if (a != null)
         {
             if (head == null){head = p = a;}
             else{
-                p.next = a; p = p.next;
+                p.next = a;
             }
-            a = a.next;
         }
-        while (b != null){
+        if (b != null){
             if (head == null){head = p = b;}
             else{
-                p.next = b; p = p.next;
+                p.next = b;
             }
-            b = b.next;
         }
         return head;
     }
