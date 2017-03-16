@@ -97,3 +97,30 @@
 
  [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
 
+
+------------
+
+
+#### ISCAS15 - leetcode - week5
+
+- 殷康
+
+ [Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/)
+
+- 张一鸣
+
+ [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)
+
+- 赵伟
+
+ [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)
+
+- 任杰
+
+ [Number of Islands](https://leetcode.com/problems/number-of-islands/)
+ 
+- 唐波
+
+ [Triangle](https://leetcode.com/problems/triangle/)
+ 
+ 
