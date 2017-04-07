@@ -149,3 +149,30 @@
 - 刘旭斌
 
  [Rotate List](https://leetcode.com/problems/rotate-list/)
+ 
+ 
+ ----------
+ 
+ 
+#### ISCAS15 - leetcode - week7
+
+- 殷康
+
+ [Burst Balloons](https://leetcode.com/problems/burst-balloons/)
+
+- 张一鸣
+
+ [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)
+
+- 赵伟
+
+ [Candy](https://leetcode.com/problems/candy/)
+
+- 任杰
+
+ [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+
+- 唐波
+
+ [Perfect Squares](https://leetcode.com/problems/perfect-squares/)
+ 
