@@ -170,9 +170,8 @@
 
 - 任杰
 
- [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+ [Perfect Squares](https://leetcode.com/problems/perfect-squares/)
 
 - 唐波
 
- [Perfect Squares](https://leetcode.com/problems/perfect-squares/)
- 
+ [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
