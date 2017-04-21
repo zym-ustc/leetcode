@@ -175,3 +175,28 @@
 - 唐波
 
  [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+ 
+ -------
+ 
+#### ISCAS15 - leetcode - week8
+
+- 王建飞
+
+ [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
+
+- 曾靖
+
+ [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)
+
+- 刘重瑞
+
+ [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)
+
+- 沈雯婷
+
+ [Super Washing Machines](https://leetcode.com/problems/super-washing-machines/)
+
+- 刘旭斌
+
+ [Decode String](https://leetcode.com/problems/decode-string/)
+
